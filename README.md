@@ -56,7 +56,7 @@ This project is intended as a learning tool and can be used as a sample project 
 2. Install the required packages.
 
    ```sh
-   cd Study-Notion-master
+   cd DevNotion
    npm install
 
    cd server
