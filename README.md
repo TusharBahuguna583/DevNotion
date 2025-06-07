@@ -27,7 +27,7 @@ This project is intended as a learning tool and can be used as a sample project 
 
 ## Screenshots
 
-![Screenshot 2023-07-25 210844](https://github.com/himanshu8443/Study-Notion-master/assets/99420590/0cba8d5b-6a47-4721-ac9f-4279107c257e)
+![Screenshot 2023-07-25 210844](https://github.com/TusharBahuguna583/DevNotion/blob/main/src/assets/Screenshot%202025-06-06%20215013.png)
 ![Screenshot 2023-07-25 211309](https://github.com/TusharBahuguna583/DevNotion/blob/main/src/assets/Screenshot%202025-06-06%20215400.png)
 
 <details>
