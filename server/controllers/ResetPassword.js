@@ -25,7 +25,7 @@ exports.resetPasswordToken = async (req, res) => {
     );
     console.log("DETAILS", updatedDetails);
 
-    const url = `https://Dev Notion.fun/update-password/${token}`;
+    const url = `https://devnotion.onrender.com/api/v1/auth/update-password/${token}`;
 
     await mailSender(
       email,
